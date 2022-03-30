@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "UniversityDb": "Server=localhost,1433;Database=UniversityBase;User ID=sa;Password=dvUO5bRBuQ3KVuW9;MultipleActiveResultSets=true"
+  }
+}

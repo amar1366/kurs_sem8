@@ -1,0 +1,64 @@
+﻿@model lab4.Storage.Entity.University
+@{
+    ViewData["Title"] = "Список преподавателей";
+}
+
+<partial name="_NavDepartmentPartial" model='Model.Department'/>
+<partial name="_NavUniversityPartial" model='Model'/>
+
+<div class="container col-6 align-items-center mt-5">
+    <h1 class="text-center">Поиск</h1>
+    <form method="post" asp-controller="University" asp-action="SearchProfessor">
+        <div class="form-group">
+            <label for="dName">Поиск</label>
+            <select class="form-control rounded" name="name">
+                <option class="rounded p-1" value="all">По всем</option>
+                <option class="rounded p-1" value="name">По ФИО</option>
+                <option class="rounded p-1" value="date">По дате</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="text">Текст</label>
+            <input type="text" class="form-control" id="text" name="text" required/>
+        </div>
+        <div class="form-group">
+            <input class="form-control" type="hidden" name="id" value="@Model.uNomber" />
+        </div>
+        <button type="submit" class="btn btn-secondary">Найти</button>
+    </form>
+</div>
+
+<div class="container align-items-center mt-5">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="text-center" scope="col">№</th>
+                <th class="text-center" scope="col">Фамилия</th>
+                <th class="text-center" scope="col">Имя</th>
+                <th class="text-center" scope="col">Отчество</th>
+                <th class="text-center" scope="col">Дата рождения</th>
+                <th class="text-center" scope="col">Изменить</th>
+                <th class="text-center" scope="col">Удалить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int number = 1;
+                foreach (var a in Model.Professors)
+                {
+                    <tr>
+                        <td class="text-center" scope="row">@number.ToString()</td>
+                        <td class="text-center" scope="row">@a.surname</td>
+                        <td class="text-center" scope="row">@a.name</td>
+                        <td class="text-center" scope="row">@a.middlename</td>
+                        <td class="text-center" scope="row">@a.birthday.ToShortDateString()</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("Изменить", "UpdateProfessor", "Professor", new { id = a.pNomber })</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("Удалить", "Delete", "Professor", new { id = a.pNomber })</td>
+                    </tr>
+                    number++;
+                }
+            }
+        </tbody>
+    </table>
+</div>

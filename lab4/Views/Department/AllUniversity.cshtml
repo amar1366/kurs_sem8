@@ -1,0 +1,39 @@
+﻿@model lab4.Storage.Entity.Department
+@{
+    ViewData["Title"] = "Список университетов";
+}
+
+<partial name="_NavDepartmentPartial" model='Model'/>
+
+<div class="container align-items-center mt-5">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="text-center" scope="col">№</th>
+                <th class="text-center" scope="col">Название</th>
+                <th class="text-center" scope="col">Изменить</th>
+                <th class="text-center" scope="col">Удалить</th>
+                <th class="text-center" scope="col">Показать список преподавателей</th>
+                <th class="text-center" scope="col">Добавить преподавателя</th>
+            </tr>
+        </thead>
+        <tbody>
+           @{
+                int number = 1;
+                foreach (var a in Model.Universities)
+                {
+                    <tr>
+                        <td class="text-center" scope="row">@number.ToString()</td>
+                        <td class="text-center" scope="row">@a.uName</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("изменить", "UpdateUniversity", "University", new { id = a.uNomber})</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("удалить", "Delete", "University", new { id = a.uNomber, DepartmentId = Model.dNomber })</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("показать", "AllProfessor", "University", new { id = a.uNomber})</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("добавить", "CreateProfessor", "Professor", new { UniversitytId = a.uNomber })</td>
+                    </tr>
+                    number++;
+                }
+            }
+        </tbody>
+    </table>
+</div>

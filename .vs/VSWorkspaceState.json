@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lab4",
+    "\\lab4\\Manager",
+    "\\lab4\\Manager\\Universities",
+    "\\lab4\\Storage",
+    "\\lab4\\Storage\\Entity",
+    "\\lab4\\Storage\\Migrations",
+    "\\lab4\\Views",
+    "\\lab4\\Views\\Department",
+    "\\lab4\\Views\\Professor",
+    "\\lab4\\Views\\University"
+  ],
+  "SelectedNode": "\\lab4.sln",
+  "PreviewInSolutionExplorer": false
+}

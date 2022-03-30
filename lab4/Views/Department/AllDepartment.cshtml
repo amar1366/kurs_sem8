@@ -1,0 +1,35 @@
+﻿@model List<lab4.Storage.Entity.Department>
+@{
+    ViewData["Title"] = "Список департаментов";
+}
+
+<div class="container align-items-center mt-5">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="text-center" scope="col">№</th>
+                <th class="text-center" scope="col">Название</th>
+                <th class="text-center" scope="col">Открыть</th>
+                <th class="text-center" scope="col">Изменить</th>
+                <th class="text-center" scope="col">Удалить</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int number = 1;
+                foreach (var a in Model)
+                {
+                    <tr>
+                        <td class="text-center" scope="row">@number.ToString()</td>
+                        <td class="text-center" scope="row">@a.dName</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("открыть", "Department", "Department", new { id = a.dNomber })</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("изменить", "UpdateDepartment", "Department", new { id = a.dNomber })</td>
+                        <td class="text-center" scope="row">@Html.ActionLink("удалить", "Delete", "Department", new { id = a.dNomber })</td>
+                    </tr>
+                    number++;
+                }
+            }
+        </tbody>
+    </table>
+</div>

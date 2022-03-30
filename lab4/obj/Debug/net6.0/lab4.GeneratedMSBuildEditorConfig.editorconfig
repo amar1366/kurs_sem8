@@ -1,0 +1,108 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = lab4
+build_property.RootNamespace = lab4
+build_property.ProjectDir = C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/AllDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBbGxEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/AllUniversity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBbGxVbml2ZXJzaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/CreateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/Department.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Department/UpdateDepartment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGVEZXBhcnRtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/FileEncryption/DigitalSignature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZUVuY3J5cHRpb25cRGlnaXRhbFNpZ25hdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/FileEncryption/FileEncryption.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlsZUVuY3J5cHRpb25cRmlsZUVuY3J5cHRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Ports/GetInfoActiveListeners.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydHNcR2V0SW5mb0FjdGl2ZUxpc3RlbmVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Ports/GetInfoPorts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydHNcR2V0SW5mb1BvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Professor/CreateProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXENyZWF0ZVByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Professor/UpdateProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yXFVwZGF0ZVByb2Zlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/Layout/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/_NavAllDepartmentsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZBbGxEZXBhcnRtZW50c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/_NavDepartmentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZEZXBhcnRtZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/_NavExtensionsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZFeHRlbnNpb25zUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/_NavInfoPortsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZJbmZvUG9ydHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/Shared/_NavUniversityPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZVbml2ZXJzaXR5UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/University/AllProfessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eVxBbGxQcm9mZXNzb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/University/CreateUniversity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eVxDcmVhdGVVbml2ZXJzaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/University/UpdateUniversity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdmVyc2l0eVxVcGRhdGVVbml2ZXJzaXR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Rabi/Desktop/OOP_sem4_lab45/lab4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

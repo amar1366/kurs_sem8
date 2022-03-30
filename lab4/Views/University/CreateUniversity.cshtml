@@ -1,0 +1,18 @@
+﻿@model System.Guid
+@{
+    ViewData["Title"] = "Добавить университет";
+}
+
+<div class="container col-6 align-items-center mt-5">
+    <h1 class="text-center">@ViewData["Title"]</h1>
+    <form method="post" asp-controller="University" asp-action="Create">
+        <div class="form-group">
+            <label for="uName">Название:</label>
+            <input class="form-control" type="text" id="uName" name="uName" required>
+        </div>
+        <div class="form-group">
+            <input class="form-control" type="hidden" name="DepartmentId" value="@Model" />
+        </div>
+        <button type="submit" class="btn btn-secondary">Добавить</button>
+    </form>
+</div>

@@ -1,0 +1,23 @@
+﻿@model lab4.Storage.Entity.Department
+
+<div class="container align-items-center mt-3">
+    <h2 class="text-center">Департамент</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th class="text-center" scope="col">Название</th>
+                <th class="text-center" scope="col">Изменить</th>
+                <th class="text-center" scope="col">Список университетов</th>
+                <th class="text-center" scope="col">Добавить университет</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="text-center" scope="row">@Model.dName</td>
+                <td class="text-center" scope="row">@Html.ActionLink("изменить", "UpdateDepartment", "Department", new { id = Model.dNomber })</td>
+                <td class="text-center" scope="row">@Html.ActionLink("показать", "AllUniversity", "Department", new { id = Model.dNomber })</td>
+                <td class="text-center" scope="row">@Html.ActionLink("добавить", "CreateUniversity", "University", new { UniversityId = Model.dNomber })</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

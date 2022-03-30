@@ -1,0 +1,19 @@
+﻿@model lab4.Storage.Entity.Department
+
+@{
+    ViewData["Title"] = "Редактировать департамент";
+}
+
+<div class="container col-6 align-items-center mt-5">
+    <h1 class="text-center">@ViewData["Title"]</h1>
+    <form method="post" asp-controller="Department" asp-action="Update">
+        <div class="form-group">
+            <label for="dName">Название:</label>
+            <input type="text" class="form-control" id="dName" name="dName" value="@Model.dName" required>
+        </div>
+        <div class="form-group">
+            <input class="form-control" type="hidden" name="id" value="@Model.dNomber" />
+        </div>
+        <button type="submit" class="btn btn-secondary">Обновить</button>
+    </form>
+</div>

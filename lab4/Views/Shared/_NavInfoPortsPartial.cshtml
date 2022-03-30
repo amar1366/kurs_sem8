@@ -1,0 +1,17 @@
+﻿<div class="container align-items-center mt-3 alert-secondary">
+    <table class="table table-hover">
+        <tbody>
+            <tr>
+                <td class="text-center" scope="row">
+                    <a asp-controller="Ports" asp-action="GetInfoPorts" >Список активных TCP подключений</a>
+                </td>
+                <td class="text-center" scope="row">
+                    <a asp-controller="Ports" asp-action="GetInfoActiveTCPListeners" >Сведения об активных прослушивателей TCP</a>
+                </td>
+                <td class="text-center" scope="row">
+                     <a asp-controller="Ports" asp-action="GetInfoActiveUDPListeners" >Сведения об активных прослушивателей UDP</a>
+                </td>
+           </tr>
+        </tbody>
+    </table>
+</div>

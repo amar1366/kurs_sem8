@@ -1,0 +1,453 @@
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.Manifest.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.xml
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CopyComplete
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Json.dll
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\UniversityDbSetting.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cs
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.Views.dll
+C:\Users\amar1\source\repos\lab4\lab4\bin\Debug\netcoreapp3.1\lab4.Views.pdb
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.input.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.output.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.RazorCoreGenerate.cache
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllDepartment.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllUniversity.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\CreateDepartment.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Department.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\UpdateDepartment.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\CreateProfessor.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\UpdateProfessor.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\AllProfessor.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\CreateUniversity.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\UpdateUniversity.cshtml.g.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cs
+C:\Users\amar1\source\repos\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.Views.pdb
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\UniversityDbSetting.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.Views.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.Views.pdb
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Json.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.Manifest.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.xml
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\lab4.styles.css
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.input.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.output.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorCoreGenerate.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllDepartment.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllUniversity.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\CreateDepartment.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Department.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\UpdateDepartment.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\CreateProfessor.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\UpdateProfessor.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\AllProfessor.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\CreateUniversity.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\UpdateUniversity.cshtml.g.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cache
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cs
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.Views.pdb
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CopyComplete
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\Rabi\Desktop\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\appsettings.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\UniversityDbSetting.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.Views.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\lab4.Views.pdb
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Json.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.MvcApplicationPartsAssemblyInfo.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorAssemblyInfo.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.Manifest.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.xml
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\lab4.styles.css
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.input.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.TagHelpers.output.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorCoreGenerate.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllDepartment.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\AllUniversity.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\CreateDepartment.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Department.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\Index.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Department\UpdateDepartment.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\CreateProfessor.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\Professor\UpdateProfessor.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\AllProfessor.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\CreateUniversity.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\Razor\Views\University\UpdateUniversity.cshtml.g.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cache
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cs
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.Views.pdb
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CopyComplete
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+E:\документы\7 СЕМЕСТР\основы новых ИТ\OOP_sem4_lab45\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
